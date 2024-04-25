@@ -1,0 +1,32 @@
+SPAM:
+
+"Congratulations! You've won a free trip to paradise! Just click the link to claim your prize now!"
+"URGENT: Your account security has been compromised! Click here to secure your information immediately!"
+"You've been selected for a special promotion! Claim your reward now before it's too late!"
+"Attention! Your subscription is about to expire. Renew now to continue enjoying our services!"
+"Free gift alert! Just provide your details to receive your complimentary item!"
+"You've won a free iPhone! Just complete a short survey to claim your prize."
+"Join our exclusive VIP club for special discounts and offers! Sign up now!"
+"Last chance to enter our giveaway! Click here to win amazing prizes!"
+"URGENT: Your account has been suspended! Click here to verify your details and restore access."
+"Security Alert: Unauthorized activity detected on your account. Click to review and secure your funds."
+"Immediate Action Required: Your account may be at risk. Click to update your security settings."
+"Congratulations! You've been pre-approved for a new credit card. Click to apply now."
+"Security Alert: Your account has been accessed from a new device. Click to secure your account."
+"Account Upgrade Offer: Click to upgrade to a premium banking package with added benefits."
+
+HAM: 
+
+"Congratulations on your recent achievement! You've worked hard for it."
+"Happy birthday! Wishing you a fantastic year ahead filled with joy and success."
+"Congratulations on your new job! You're unstoppable!"
+"Hey, I found this article/video that I thought you might enjoy. Check it out!"
+"Hope you're having a relaxing weekend! Let's plan something fun for next week."
+"Thanks for being such an amazing friend. You always know how to brighten my day."
+"Hey, just wanted to remind you how awesome you are. Keep shining!"
+"Hope your day is going smoothly. Remember to take breaks and stay hydrated!"
+"Hey, let's grab lunch sometime this week. I miss our chats!"
+"Thanks for being a great coworker/team member. Your hard work doesn't go unnoticed."
+"Happy anniversary! Here's to many more years of love and happiness."
+"Congratulations on your engagement! Wishing you a lifetime of love and laughter."
+"Thanks for the laughs and good times. Looking forward to making more memories together."
